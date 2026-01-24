@@ -1,7 +1,11 @@
 # Multi-Factor Transaction Monitoring and Fraud Risk Analysis
 ***
 
-[![Multi-Factor Transaction Monitoring and Fraud Risk Analysis Dashboard)](visualizations/Multi-Factor%Transaction%Monitoring%and%Fraud%Risk%Analysis%Dashboard.png)](https://public.tableau.com/app/profile/samanthaataylor/viz/Multi-FactorTransactionMonitoringandFraudRiskAnalysis/Dashboard)
+<div align="center">
+  <a href="https://public.tableau.com/app/profile/samanthaataylor/viz/Multi-FactorTransactionMonitoringandFraudRiskAnalysis/Dashboard">
+    <img src="visualizations/Transaction%20Monitoring%20And%20Fraud%20Risk%20Dashboard.png" width="500">
+  </a>
+</div>
 
 ## Project Overview ☰
 
