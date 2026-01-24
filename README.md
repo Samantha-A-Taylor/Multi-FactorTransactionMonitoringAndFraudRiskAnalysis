@@ -60,4 +60,5 @@ This project analyzes financial transaction data to identify potential fraud ris
 
 MIT License  
 
-Copyright (c) 2026 S. Taylor  
+Copyright (c) 2026 Samantha-A-Taylor
+***
