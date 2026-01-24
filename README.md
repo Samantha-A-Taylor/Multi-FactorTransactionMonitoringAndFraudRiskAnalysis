@@ -1,5 +1,8 @@
 # Multi-Factor Transaction Monitoring and Fraud Risk Analysis
 ***
+
+[![Multi-Factor Transaction Monitoring and Fraud Risk Analysis Dashboard)](visualizations/Multi-Factor%Transaction%Monitoring%and%Fraud%Risk%Analysis%Dashboard.png)](https://public.tableau.com/app/profile/samanthaataylor/viz/Multi-FactorTransactionMonitoringandFraudRiskAnalysis/Dashboard)
+
 ## Project Overview ☰
 
 This project analyzes financial transaction data to identify potential fraud risk using a multi-factor, behavior-based approach. Through exploratory data analysis (EDA), anomaly detection, and engineered fraud metrics, the project evaluates transaction value, frequency patterns, and login behavior to surface high-risk activity and support proactive transaction monitoring.
